@@ -148,7 +148,7 @@ body.dark {
 .action-btn {
   background-color: white;
   border: 0;
-  color: #dfdbdf;
+  color: #6e696e;
   font-size: 20px;
   cursor: pointer;
   padding: 10px;
@@ -156,7 +156,7 @@ body.dark {
 }
 
 .action-btn-big.action-btn-big {
-  color: #cdc2d0;
+  color: #706470;
   font-size: 30px;
 }
 
